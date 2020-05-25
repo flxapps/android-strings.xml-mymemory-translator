@@ -1,4 +1,4 @@
-# android-strings.xml-mymemory-translator
+# Android strings.xml Mymemory Translator
 
 A python script that generates translations for your Android strings.xml files based on the [MyMemory Translation API](https://mymemory.translated.net/doc/spec.php).
 

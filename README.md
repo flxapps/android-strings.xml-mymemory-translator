@@ -1,0 +1,1 @@
+# android-strings.xml-mymemory-translator

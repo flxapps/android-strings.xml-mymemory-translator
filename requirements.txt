@@ -23,6 +23,6 @@ six==1.15.0
 toml==0.10.1
 tox==3.15.1
 translate==3.5.0
-urllib3==1.25.9
+urllib3==1.26.5
 virtualenv==20.0.21
 zipp==1.2.0
